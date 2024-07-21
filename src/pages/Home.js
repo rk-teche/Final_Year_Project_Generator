@@ -1,7 +1,7 @@
 import React from 'react';
-import InputField from '../components/InputField';
-import SelectField from '../components/SelectField';
-import RadioGroup from '../components/RadioGroup';
+import InputField from '../components/form/InputField';
+import SelectField from '../components/form/SelectField';
+import RadioGroup from '../components/form/RadioGroup';
 
 const Home = () => {
   return (
